@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1336201916 source:d:\visual project code\cb_readxml\tinystr.cpp
+	"tinystr.h"
+
+1336201916 d:\visual project code\cb_readxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1336201916 source:d:\visual project code\cb_readxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1336201916 d:\visual project code\cb_readxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1336201916 source:d:\visual project code\cb_readxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1336201916 source:d:\visual project code\cb_readxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1448596246 source:d:\visual project code\cb_readxml\main.cpp
+	<iostream>
+	"tinyxml.h"
+	"tinystr.h"
+

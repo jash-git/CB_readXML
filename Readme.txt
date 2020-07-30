@@ -1,0 +1,1 @@
+純C/C++ 存取XML [CB_readXML]
